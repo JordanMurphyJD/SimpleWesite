@@ -3,4 +3,8 @@ body{
 }
 h1{
     background-color: burlywood;
+    color: crimson;
+}
+p{
+    background-color: chartreuse;
 }
